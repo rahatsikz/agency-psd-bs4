@@ -1,0 +1,371 @@
+/*fonts start*/
+/*font-family: 'Open Sans', sans-serif;*/
+@font-face {
+	font-family: Helvetica-Normal ;
+	src: url(../fonts/Helvetica-Normal.ttf);
+}
+@font-face {
+	font-family: HelveticaNeue-Bold ;
+	src: url(../fonts/HelveticaNeue-Bold.ttf);
+}
+@font-face {
+	font-family: helveticaneue-light ;
+	src: url(../fonts/helveticaneue-light.ttf);
+}
+@font-face {
+	font-family: helvetica-bold ;
+	src: url(../fonts/helvetica-bold.ttf);
+}
+@font-face {
+	font-family: Helvetica-Regular ;
+	src: url(../fonts/Helvetica-Regular.ttf);
+}
+/*fonts end*/
+/*header start*/
+header {
+	background-color: #f0f2f4;
+}
+.upper-part ul {}
+.upper-part ul li {
+	margin: 8px auto;
+	text-align: right;
+}
+.upper-part ul li p {
+	font-family: Helvetica-Normal ;
+	font-size: 15px;
+	margin: 0 auto;
+	
+}
+.upper-part ul li i {
+	font-size: 19px;
+	text-align: right; 
+}
+.upper-part li:nth-of-type(1) i {
+	margin-left: 42px;
+}
+.upper-part li:nth-of-type(3) i {
+	margin-left: 20px;
+}
+/*header end*/
+/*navhead start*/
+.navhead {
+	margin: 20px auto;
+}
+.cus-nav li a {
+	font-family: HelveticaNeue-Bold ;
+	font-size: 15px;
+	color: #424242 !important;
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+	transition: .5s;
+}
+.cus-nav li a:hover {
+	color: #de2b24 !important;
+}
+.cus-nav li i {
+	font-size: 7px;
+	color: #424242 !important;
+	margin-top: 16px;
+}
+.cus-nav button {
+	font-family: HelveticaNeue-Bold ;
+	font-size: 15px;
+	margin-left: 20px;
+	padding-left: 22px; 
+	padding-right: 22px;
+	transition: .5s;
+}
+.cus-nav button:hover {
+	background: transparent;
+	color: #424242;
+}
+/*navhead end*/
+/*banner start*/
+.banner {
+	background-image: url(../image/banner-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.banner-text {
+	margin-top: 160px;
+	margin-bottom: 220px;
+}
+.banner-text h1 {
+	font-family: HelveticaNeue-Bold ;
+	font-size: 48px;
+	color: #ffffff;
+}
+.banner-text p {
+	font-family: helveticaneue-light ;
+	font-size: 30px;
+	color: #ffffff;
+	margin-bottom: 37px;
+}
+.banner-text button {
+	font-family: HelveticaNeue-Bold ;
+	font-size: 23px;
+	color: #ffffff;
+	padding: 10px 30px;
+}
+.banner-text button:hover {
+	background: transparent;
+	color: #f8cd53;
+}
+/*banner end*/
+/*about start*/
+.about {
+	margin-top: 100px;
+}
+.random-text1 h1 {
+	font-family: HelveticaNeue-Bold ;
+	font-size: 36px;
+	color: #424242;
+}
+.random-text1 p {
+	font-family: helveticaneue-light ;
+	font-size: 20px;
+	color: #424242;
+}
+.random-text1 hr {
+	width: 30px;
+	border: 3px solid #424242;
+}
+.about-text {
+	margin-top: 47px;
+	margin-bottom: 160px;
+}
+.about-text h3 {
+	font-family: HelveticaNeue-Bold ;
+	font-size: 22px;
+	color: #424242;
+	margin-top: 24px;
+}
+.about-text p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13.5px;
+}
+/*about end*/
+/*approch start*/
+.with-img {
+	position: relative;
+}
+.red-box {
+	font-family: Helvetica-Normal ;
+	color: #ffffff;
+}
+.red-box h1 {
+	font-size: 60px;
+	margin-bottom: -11px;
+	font-weight: 700;
+}
+.red-box p {
+	font-size: 20px;
+}
+.l1 {
+	width: 105px;
+	height: 105px;
+	background-color: #de2b24;
+	position: absolute;
+	top: 78px;
+	right: -75px;
+	border: 2px solid white;
+	border-radius: 6px;
+	transition: .8s;
+}
+.l1:hover {
+	right: -120px;
+}
+.r1 {
+	width: 105px;
+	height: 105px;
+	background-color: #de2b24;
+	position: absolute;
+	top: 79px;
+	left: -51px;
+	border: 2px solid white;
+	border-radius: 6px;
+	transition: .8s;
+}
+.r1:hover {
+	left: -90px;
+}
+.w1 {
+	/*border: 3px solid red;*/
+}
+
+.approch-text {
+	margin-top: 87px;
+	/*border: 3px solid green;*/
+}
+.approch-text h1 {
+	font-family: helvetica-bold ;
+	font-size: 18px;
+	color: #424242;
+
+}
+.approch-text p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13.5px;
+	color: #5c5c5c;
+}
+
+/*approch end*/
+
+/*work start*/
+.work {
+	background-color: #de2b24;
+	padding-bottom: 120px;
+}
+.col-wht h1{
+	color: #ffffff;
+	margin-top: 110px;
+}
+.col-wht p {
+	color: #ffffff
+}
+.col-wht hr {
+	border-color: #ffffff;
+}
+.cus-wd {
+	width: 1040px;
+	margin-left: 31px;
+}
+.img-project {
+  	position: relative;
+}
+.pop {
+	width: 0;
+ 	height: 100%;
+	background-color: #f35e59;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	overflow: hidden;
+  	transition: .6s;
+}
+.img-project:hover .pop {
+    width: 100%;
+}
+.project-text {
+	font-family: HelveticaNeue-Bold ;
+	color: #ffffff;
+}
+.project-text i {
+	font-size: 36px;
+	color: #f9afac;
+	margin-top: 68px;
+}
+.project-text h1 {
+	font-size: 26px;
+	padding-top: 20px;
+}
+.project-text p {
+	font-size: 16px;
+}
+/*work end*/
+/*analysis start*/
+.analysis {
+	background-color: #1287bf;
+}
+.crumble {
+	margin-bottom: 105px;
+}
+.form-content {
+	background-image: url(../image/form-image.png);
+	background-position: top center;
+	position: relative;
+	background-repeat: no-repeat;
+
+}
+.btn-cancel {
+	position: absolute;
+	right: 95px;
+}
+.form-content p {
+	font-family: Helvetica-Regular ;
+	font-size: 15px;
+	color: #828282;
+	margin-top: 70px;
+	margin-bottom: 35px;
+}
+.form-content form input {
+	width: 70%;
+	margin: 8px auto;
+	font-family: Helvetica-Regular ;
+	font-size: 14px;	
+}
+.form-content form button {
+	background-color: #de2b24;
+	font-family: HelveticaNeue-Bold ;
+	font-size: 15px;
+	color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: 65px;
+	padding: 10px 25px;
+}
+/*analysis end*/
+/*social start*/
+.social {
+	background-color: #2a2a2a;
+}
+.ico-social {
+	margin-top: 30px;
+}
+.ico-social li {
+	margin: 0 10px;
+}
+.ico-social li a {
+	font-size: 23px;
+	color: white;
+	border: 2px solid #515151;
+	border-radius: 5px;
+	padding: 10px 17px;
+	transition: .5s;
+}
+.ico-social li a:hover {
+	border-color: #de2b24;
+}
+.newsletter p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #cecece;
+	margin: 27px auto;
+}
+.newsletter form input {
+	background-color: #515151;
+	font-size: 14px;
+	padding: 25px 16px;
+	border: none;
+	margin-bottom: 27px;
+}
+.newsletter form input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #cecece;
+}
+.newsletter form button {
+	background: transparent;
+	font-family: helvetica-bold ;
+	font-size: 17px;
+	color: #ffffff;
+	border: 2px solid #515151;
+	padding: 12px 28px;
+	margin-bottom: 105px;
+	transition: .5s;
+}
+.newsletter form button:hover {
+	border-color: #de2b24;
+}
+/*social end*/
+/*footer start*/
+footer {
+	background-color: #515151;
+	padding: 15px 0;
+}
+.ftr-text p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #cecece;
+	margin-top: 10px;
+}
+/*footer end*/

@@ -1,0 +1,510 @@
+@media (max-width: 325px) { 
+	
+	.upper-part li:nth-of-type(1) i {
+		margin-left: 10px;
+	}
+	.upper-part li:nth-of-type(3) i {
+		margin-left: 0;
+	}
+
+	.logo-img {
+		width: 160px;
+	}
+	.cus-nav button {
+		margin-top: 10px;
+		margin-right: auto;
+		margin-left: 12px;
+	}
+	
+	.banner-text {
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+	.banner-text h1 {
+	    font-size: 33px;
+	}
+	.banner-text p {
+	    font-size: 20px;
+	}
+	.banner-text button {
+	    font-size: 16px;
+	    color: #ffffff;
+	    padding: 8px 16px;
+	}
+
+	.about {
+    	margin-top: 60px;
+	}
+	.about-text {
+    	margin-top: 47px;
+    	margin-bottom: 0px;
+   }
+   .approch {
+   		margin-top: 60px;
+   	}
+   	.with-img img {
+   		width: 100%;
+   	}
+   	.red-box h1 {
+		font-size: 40px;
+}
+	.red-box p {
+		font-size: 20px;
+	}
+   	.l1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 59px;
+		right: 0px;
+	}
+	.l1:hover {
+		right: 20px;
+	}
+
+	.r1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 63px;
+		left: 0px;
+	}
+	.r1:hover {
+		left: 20px;
+	}
+	.approch-text {
+		margin-top: 20px;
+	}
+	.work {
+		padding-bottom: 60px;
+	}
+	.col-wht h1 {
+	    margin-top: 60px;
+	}
+	.img-project img {
+		margin-left: -10px;
+	}
+	.img-project:hover .pop {
+	    width: 23%;
+	}
+
+	.crumble {
+		margin-bottom: 60px;
+	}
+
+	.form-content {
+		position: relative;
+	}
+	.btn-cancel {
+		position: absolute;
+		right: -12px;
+    	top: 10px;
+	}
+
+	.ico-social li a {
+		font-size: 23px;
+		padding: 8px 12px;
+	
+	}
+	.newsletter form button {
+		margin-bottom: 60px;
+	}
+ }
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 373px) and (max-width: 575.98px) { 
+
+	.upper-part {
+		text-align: center;
+	}
+	.upper-part li:nth-of-type(1) i {
+		margin-left: 10px;
+	}
+	.upper-part li:nth-of-type(3) i {
+		margin-left: 0;
+	}
+
+	.logo-img {
+		width: 160px;
+	}
+	.cus-nav button {
+		margin-top: 10px;
+		margin-right: auto;
+		margin-left: 12px;
+	}
+	
+	.banner-text {
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+	.banner-text h1 {
+	    font-size: 33px;
+	}
+	.banner-text p {
+	    font-size: 20px;
+	}
+	.banner-text button {
+	    font-size: 16px;
+	    color: #ffffff;
+	    padding: 8px 16px;
+	}
+
+	.about {
+    	margin-top: 60px;
+	}
+	.about-text {
+    	margin-top: 47px;
+    	margin-bottom: 0px;
+   }
+   .approch {
+   		margin-top: 60px;
+   	}
+   	.with-img img {
+   		width: 100%;
+   	}
+   	.red-box h1 {
+		font-size: 40px;
+}
+	.red-box p {
+		font-size: 20px;
+	}
+   	.l1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 115px;
+		right: 0px;
+	}
+	.l1:hover {
+		right: 20px;
+	}
+
+	.r1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 115px;
+		left: 0px;
+	}
+	.r1:hover {
+		left: 20px;
+	}
+	.approch-text {
+		margin-top: 20px;
+	}
+	.work {
+		padding-bottom: 60px;
+	}
+	.col-wht h1 {
+	    margin-top: 60px;
+	}
+	.img-project img {
+		margin-left: 60px;
+	}
+	.img-project:hover .pop {
+	    width: 0px;
+	}
+
+	.crumble {
+		margin-bottom: 60px;
+	}
+
+	.form-content {
+		position: relative;
+	}
+	.btn-cancel {
+		position: absolute;
+		right: -12px;
+    	top: 10px;
+	}
+
+	.ico-social li a {
+		font-size: 23px;
+		padding: 8px 12px;
+	
+	}
+	.newsletter form button {
+		margin-bottom: 60px;
+	}
+	
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.upper-part {
+		text-align: center;
+	}
+	.upper-part li:nth-of-type(1) i {
+		margin-left: 10px;
+	}
+	.upper-part li:nth-of-type(3) i {
+		margin-left: 0;
+	}
+
+	.logo-img {
+		width: 160px;
+	}
+	.cus-nav button {
+		margin-top: 10px;
+		margin-right: auto;
+		margin-left: 12px;
+	}
+	.banner-text {
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+	.banner-text h1 {
+	    font-size: 33px;
+	}
+	.banner-text p {
+	    font-size: 20px;
+	}
+	.banner-text button {
+	    font-size: 16px;
+	    color: #ffffff;
+	    padding: 8px 16px;
+	}
+
+	.about {
+    	margin-top: 60px;
+	}
+	.about-text {
+    	margin-top: 47px;
+    	margin-bottom: 0px;
+   }
+   .approch {
+   		margin-top: 60px;
+   	}
+   	.with-img img {
+   		width: 100%;
+   	}
+   	.red-box h1 {
+		font-size: 40px;
+}
+	.red-box p {
+		font-size: 20px;
+	}
+   	.l1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 150px;
+		right: 0px;
+	}
+	.l1:hover {
+		right: 20px;
+	}
+
+	.r1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 150px;
+		left: 0px;
+	}
+	.r1:hover {
+		left: 20px;
+	}
+	.approch-text {
+		margin-top: 20px;
+	}
+	.work {
+		padding-bottom: 60px;
+	}
+	.col-wht h1 {
+	    margin-top: 60px;
+	}
+	.img-project img {
+		margin-left: 100px;
+	}
+	.img-project:hover .pop {
+	    width: 0px;
+	}
+
+	.crumble {
+		margin-bottom: 60px;
+	}
+
+	.form-content {
+		position: relative;
+	}
+	.btn-cancel {
+		position: absolute;
+		right: -12px;
+    	top: 10px;
+	}
+
+	.ico-social li a {
+		font-size: 23px;
+		padding: 8px 12px;
+	
+	}
+	.newsletter form button {
+		margin-bottom: 60px;
+	}
+	
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.upper-part {
+		text-align: center;
+	}
+	.upper-part li:nth-of-type(1) i {
+		margin-left: 10px;
+	}
+	.upper-part li:nth-of-type(3) i {
+		margin-left: 0;
+	}
+
+	.logo-img {
+		width: 160px;
+	}
+	.cus-nav button {
+		margin-top: 10px;
+		margin-right: auto;
+		margin-left: 12px;
+	}
+	.banner-text {
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+	.banner-text h1 {
+	    font-size: 33px;
+	}
+	.banner-text p {
+	    font-size: 20px;
+	}
+	.banner-text button {
+	    font-size: 16px;
+	    color: #ffffff;
+	    padding: 8px 16px;
+	}
+
+	.about {
+    	margin-top: 60px;
+	}
+	.about-text {
+    	margin-top: 47px;
+    	margin-bottom: 0px;
+   }
+   .approch {
+   		margin-top: 60px;
+   	}
+   	.with-img img {
+   		width: 100%;
+   	}
+   	.red-box h1 {
+		font-size: 40px;
+	}
+	.red-box p {
+		font-size: 20px;
+	}
+   	.l1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 150px;
+		right: 0px;
+	}
+	.l1:hover {
+		right: 20px;
+	}
+
+	.r1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 150px;
+		left: 0px;
+	}
+	.r1:hover {
+		left: 20px;
+	}
+	.approch-text {
+		margin-top: 20px;
+	}
+	.work {
+		padding-bottom: 60px;
+	}
+	.col-wht h1 {
+	    margin-top: 60px;
+	}
+	.img-project img {
+		margin-left: 170px;
+	}
+	.img-project:hover .pop {
+	    width: 0px;
+	}
+
+	.crumble {
+		margin-bottom: 60px;
+	}
+
+	.form-content {
+		position: relative;
+	}
+	.btn-cancel {
+		position: absolute;
+		right: -12px;
+    	top: 10px;
+	}
+
+	.ico-social li a {
+		font-size: 23px;
+		padding: 8px 12px;
+	
+	}
+	.newsletter form button {
+		margin-bottom: 60px;
+	}
+	
+	
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	
+	.red-box h1 {
+		font-size: 40px;
+	}
+	.red-box p {
+		font-size: 20px;
+	}
+	.l1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 99px;
+		right: 510px;
+	}
+	.l1:hover {
+		right: 20px;
+	}
+
+	.r1 {
+		width: 80px;
+		height: 80px;
+		position: absolute;
+		top: 110px;
+		left: -34px;
+	}
+	.r1:hover {
+		left: 20px;
+	}
+
+	.img-project:hover .pop {
+	    width: 0px;
+	}
+	.img-project img {
+		margin-left: 317px;
+	}
+	.form-content p {
+		font-size: 9px;
+		text-align: center;
+	}
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+	
+ }
